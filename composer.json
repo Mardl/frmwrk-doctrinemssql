@@ -1,0 +1,15 @@
+{
+  "name": "frameworks/doctrinemssql",
+  "type": "package",
+  "description": "",
+  "homepage": "http://repo.dreiwerken.intern/frameworks/doctrinemssql",
+  "require": {
+    "frameworks/mssqlbundle": "dev-master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@repo.dreiwerken.intern:frameworks/mssqlbundle.git"
+    }
+  ]
+}
