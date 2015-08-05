@@ -2,5 +2,8 @@
   "name": "frameworks/doctrinemssql",
   "type": "package",
   "description": "",
-  "homepage": "http://repo.dreiwerken.intern/frameworks/doctrinemssql"
+  "homepage": "http://repo.dreiwerken.intern/frameworks/doctrinemssql",
+  "autoload": {
+    "classmap": ["/"]
+  }
 }
